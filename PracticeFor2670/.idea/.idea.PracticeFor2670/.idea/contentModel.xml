@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\10864830\.Rider2019.2\system\resharper-host\Local\Transient\ReSharperHost\v192\SolutionCaches\_PracticeFor2670.500824532.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10864830\Documents\Repos\Fall2670\PracticeFor2670" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Pikachu.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PracticeFor2670.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
