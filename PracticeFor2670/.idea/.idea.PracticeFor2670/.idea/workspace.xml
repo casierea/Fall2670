@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="577ee23a-7409-44f4-930c-213680fb4422" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pikachu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pikachu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/aug19.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/aug19.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,30 +16,30 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="451" />
+          <entry key="cs" value="849" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="451" />
+          <entry key="C#" value="849" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
+          <entry key="cs" value="4" />
           <entry key="sln" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
+          <entry key="C#" value="4" />
           <entry key="Solution File" value="1" />
         </counts>
       </usages-collector>
@@ -77,10 +69,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1566770907711" expanded="true" signature="6:78" ph="..." />
+                <marker date="1566770907711" expanded="true" signature="188:486" ph="{...}" />
+                <marker date="1566770907711" expanded="true" signature="401:482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1566770808510" expanded="false" signature="6:78" ph="..." />
+                <marker date="1566770808510" expanded="true" signature="120:249" ph="{...}" />
+                <marker date="1566770808510" expanded="true" signature="199:245" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <marker date="1566509810183" expanded="true" signature="6:100" ph="..." />
                 <marker date="1566509810183" expanded="true" signature="144:352" ph="{...}" />
@@ -98,7 +118,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatDataObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggerbehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/VariableandFunctions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -111,6 +133,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/Piratename.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/VariableandFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs" />
       </list>
     </option>
   </component>
@@ -133,13 +157,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,11 +215,12 @@
       <workItem from="1566419275789" duration="524000" />
       <workItem from="1566508552410" duration="108000" />
       <workItem from="1566508677654" duration="1734000" />
+      <workItem from="1566763231166" duration="2048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1842000" />
+    <option name="totallyTimeSpent" value="3890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,8 +233,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,13 +307,20 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Piratename.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/Piratename.cs" />
     <entry file="file://$PROJECT_DIR$/PracticeFor2670.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/Piratename.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1566509810183" expanded="true" signature="6:100" ph="..." />
+            <marker date="1566509810183" expanded="true" signature="144:352" ph="{...}" />
+            <marker date="1566509810183" expanded="true" signature="240:288" ph="{...}" />
+            <marker date="1566509810183" expanded="true" signature="343:350" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -305,15 +338,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="377">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1566509810183" expanded="true" signature="6:100" ph="..." />
-            <marker date="1566509810183" expanded="true" signature="144:352" ph="{...}" />
-            <marker date="1566509810183" expanded="true" signature="240:288" ph="{...}" />
-            <marker date="1566509810183" expanded="true" signature="343:350" ph="{...}" />
+            <marker date="1566770808510" expanded="false" signature="6:78" ph="..." />
+            <marker date="1566770808510" expanded="true" signature="120:249" ph="{...}" />
+            <marker date="1566770808510" expanded="true" signature="199:245" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1566770907711" expanded="true" signature="6:78" ph="..." />
+            <marker date="1566770907711" expanded="true" signature="188:486" ph="{...}" />
+            <marker date="1566770907711" expanded="true" signature="401:482" ph="{...}" />
           </folding>
         </state>
       </provider>

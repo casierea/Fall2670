@@ -9,6 +9,8 @@
         <e p="FloatDataObject.cs" t="Include" />
         <e p="HomePractice" t="Include">
           <e p="AdventureGame.cs" t="Include" />
+          <e p="CardDisplay.cs" t="Include" />
+          <e p="CardTutScript.cs" t="Include" />
           <e p="VariableandFunctions.cs" t="Include" />
         </e>
         <e p="Triggerbehaviour.cs" t="Include" />
