@@ -15,6 +15,7 @@ public class CardTutScript : ScriptableObject
 	public int health;
 	public int cuddleCost;
 	public int sleepHours;
+	public int happiness;
 
 	public void Print()
 	{

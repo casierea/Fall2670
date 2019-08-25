@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="577ee23a-7409-44f4-930c-213680fb4422" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeFor2670/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +24,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="849" />
+          <entry key="cs" value="1524" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="849" />
+          <entry key="C#" value="1524" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,29 +69,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="425">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <marker date="1566770907711" expanded="true" signature="6:78" ph="..." />
-                <marker date="1566770907711" expanded="true" signature="188:486" ph="{...}" />
-                <marker date="1566770907711" expanded="true" signature="401:482" ph="{...}" />
+                <marker date="1566772224824" expanded="true" signature="6:78" ph="..." />
+                <marker date="1566772224824" expanded="true" signature="188:509" ph="{...}" />
+                <marker date="1566772224824" expanded="true" signature="424:505" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="781">
+              <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
               <folding>
-                <marker date="1566770808510" expanded="false" signature="6:78" ph="..." />
-                <marker date="1566770808510" expanded="true" signature="120:249" ph="{...}" />
-                <marker date="1566770808510" expanded="true" signature="199:245" ph="{...}" />
+                <marker date="1566772222471" expanded="true" signature="6:153" ph="..." />
+                <marker date="1566772222471" expanded="true" signature="250:1021" ph="{...}" />
+                <marker date="1566772222471" expanded="true" signature="574:1017" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -133,8 +134,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/Piratename.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/VariableandFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/AdventureGame.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs" />
       </list>
     </option>
   </component>
@@ -215,12 +216,12 @@
       <workItem from="1566419275789" duration="524000" />
       <workItem from="1566508552410" duration="108000" />
       <workItem from="1566508677654" duration="1734000" />
-      <workItem from="1566763231166" duration="2048000" />
+      <workItem from="1566763231166" duration="3363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3890000" />
+    <option name="totallyTimeSpent" value="5205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,26 +339,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="425">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <marker date="1566770808510" expanded="false" signature="6:78" ph="..." />
-            <marker date="1566770808510" expanded="true" signature="120:249" ph="{...}" />
-            <marker date="1566770808510" expanded="true" signature="199:245" ph="{...}" />
+            <marker date="1566772224824" expanded="true" signature="6:78" ph="..." />
+            <marker date="1566772224824" expanded="true" signature="188:509" ph="{...}" />
+            <marker date="1566772224824" expanded="true" signature="424:505" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardTutScript.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HomePractice/CardDisplay.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="781">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
           <folding>
-            <marker date="1566770907711" expanded="true" signature="6:78" ph="..." />
-            <marker date="1566770907711" expanded="true" signature="188:486" ph="{...}" />
-            <marker date="1566770907711" expanded="true" signature="401:482" ph="{...}" />
+            <marker date="1566772222471" expanded="true" signature="6:153" ph="..." />
+            <marker date="1566772222471" expanded="true" signature="250:1021" ph="{...}" />
+            <marker date="1566772222471" expanded="true" signature="574:1017" ph="{...}" />
           </folding>
         </state>
       </provider>
