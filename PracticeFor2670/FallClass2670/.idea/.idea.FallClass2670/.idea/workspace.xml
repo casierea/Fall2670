@@ -11,6 +11,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -66,7 +69,7 @@
       <updated>1566848724741</updated>
       <workItem from="1566848726031" duration="130000" />
       <workItem from="1566848882995" duration="63000" />
-      <workItem from="1566848972480" duration="240000" />
+      <workItem from="1566848972480" duration="844000" />
     </task>
     <servers />
   </component>
