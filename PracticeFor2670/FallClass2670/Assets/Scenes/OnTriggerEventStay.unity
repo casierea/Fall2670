@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 867613977}
   - component: {fileID: 867613976}
   - component: {fileID: 867613975}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -257,6 +257,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  TriggerStayEvent:
+    m_PersistentCalls:
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!135 &867613976
@@ -427,7 +432,7 @@ GameObject:
   - component: {fileID: 1685101957}
   - component: {fileID: 1685101956}
   - component: {fileID: 1685101960}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -537,7 +542,7 @@ GameObject:
   - component: {fileID: 2066517431}
   - component: {fileID: 2066517430}
   - component: {fileID: 2066517429}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Powerup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -570,6 +575,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  TriggerStayEvent:
+    m_PersistentCalls:
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!135 &2066517430
