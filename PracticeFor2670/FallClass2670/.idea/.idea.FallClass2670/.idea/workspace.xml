@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b229aa-c541-4132-8b80-472d5adedb1e" name="Default Changelist" comment="" />
@@ -12,12 +12,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TriggerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CardDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/TriggerBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -70,6 +71,7 @@
       <workItem from="1566848726031" duration="130000" />
       <workItem from="1566848882995" duration="63000" />
       <workItem from="1566848972480" duration="844000" />
+      <workItem from="1567018959246" duration="302000" />
     </task>
     <servers />
   </component>
